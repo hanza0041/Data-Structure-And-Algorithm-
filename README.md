@@ -49,3 +49,4 @@ public static boolean isLowerTriangular(int[][] d){
         return YesNo;
     }
 ```
+![Example](https://github.com/hanza0041/Data-Structure-And-Algorithm-/isLower.png""Example")
